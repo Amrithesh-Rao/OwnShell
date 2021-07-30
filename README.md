@@ -16,3 +16,7 @@ Type gcc -lreadline to compile and ./a.out to execute in terminal
 ---------------------------------------------------------------------
 
 The shell can run user defined command along with built-in commands of linux terminal.
+
+---------------------------------------------------------------------
+References:
+https://www.geeksforgeeks.org/making-linux-shell-c/
